@@ -1,0 +1,31 @@
+.justificado {
+    text-align: justify;
+}
+
+div {
+    background-color: rgb(26, 25, 25);
+    border: 5px;
+    border-color: rgb(156, 117, 7);
+    padding: 1px;
+    width: 20%;
+    margin: 2dvh;
+    border-radius: 30%;
+}
+
+a {
+    color: rgb(231, 224, 224);
+}
+
+p {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 36px;
+    border-style: double;
+    width: 25%;
+}
+
+h3 {
+    color: rgb(211, 161, 25);
+}
